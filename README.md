@@ -1,6 +1,6 @@
 # Microsoft Cloud Adoption Framework (CAF)
 
-**Nader Zakhary | Studentnummer: 1847568 | Uniserver System Administrator**
+** Studentnummer: 1847568 | Uniserver System Administrator**
 **Cloud Governance — TICT-CDU4GOV-24 | Hogeschool Utrecht | 2025–2026**
 
 ---
