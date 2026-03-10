@@ -15,5 +15,6 @@ VERBS = [
     "transform", "accelerate", "democratize", "containerize"
 ]
 
+
 def generate_buzz():
     return f"{random.choice(VERBS).capitalize()} the {random.choice(ADJECTIVES)} {random.choice(NOUNS)}"
